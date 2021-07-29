@@ -5,8 +5,8 @@ This script removes all your Reddit posts and comments.
 
 ## Instructions
 
-1. Create virtual environment: `python -m venv myenv`
-1. Install requirements `python -r requirements.txt`
+1. Create virtual environment: `python -m venv myenv` and activate it `myenv\Scripts\activate`
+1. Install requirements `pip install -r requirements.txt`
 1. Register your personal Reddit app
     - [Reddit](https://www.reddit.com/prefs/apps)
         - choose a name (not important)
